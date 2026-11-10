@@ -19,7 +19,7 @@ const doctors = [
     name: 'Dr. Ananya Rao',
     specialization: 'Cosmetic Dentist',
     experience: '7+ Years Experience',
-    image: 'https://images.unsplash.com/photo-1594824476967-48c8b964ac31?w=400&h=400&fit=crop&crop=face',
+    image: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=400&h=400&fit=crop&crop=face',
     bio: 'Creating beautiful smiles through advanced cosmetic procedures.',
   },
 ];
